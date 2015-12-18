@@ -1,7 +1,7 @@
 name: Simonwhitfield
 favicon: null
 layout_spectrum: 0.99593
-typography_spectrum: 0.37352
+typography_spectrum: 0.62531
 title: SimonWhitfield
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#72b6ed'
-    - '#b1e3bb'
-    - '#0c1112'
-    - '#0754b5'
-    - '#ff4256'
+    - '#0d0d0d'
+    - '#3f3f3f'
+    - '#bdbdbd'
+    - '#686868'
+    - '#f8f8f8'
   brandStrength: 0.75
-  lightness: 0.980433649616316
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
